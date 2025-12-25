@@ -10,7 +10,7 @@ This project focuses on **character-level text generation** using a **Recurrent 
     - **Target sequence:** `"ello"`
 - Generated shuffled and batched training datasets for efficient model training.
 
-### Model Architecture
+### Model Architecture and Training
 The character-based RNN model consists of:
 - **Embedding layer** with a 256-dimensional embedding space
 - **GRU layer** with 1024 units to capture sequential dependencies
